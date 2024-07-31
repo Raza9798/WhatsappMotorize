@@ -1,16 +1,40 @@
-SETUP WHATSAPP
+## Overview
 
-```
-SETUP WHATSAPP
-localhost:3000/web.setup
+**WhatsApp Motorize** is an innovative tool designed to simplify sending bulk messages via WhatsApp.
 
-SEND MESSAGES
-localhost:3000/web.send?message=Hello Test&apiKey=I4LHwm3KmAIzaSyDxWI4LXZ0DP0D9M5671040&type=sendFromList
-```
+- **Single Click Messaging**: Reach out to multiple contacts effortlessly with just one click.
+- **Easy Configuration**: Get started quickly with a straightforward setup.
+- **Ideal for Various Uses**: Perfect for notifications, announcements, and promotions.
+
+**WhatsApp Motorize** ensures your bulk messaging needs are met with efficiency and ease.
+
+## Required Applications
+
+- **Node.js**: Ensure you have Node.js installed to run the application.
+- **Postman**: Use Postman interact with the application.
 
 
-```
+## Configuration
 
+| Configuration Step          | Command                                           |
+|-----------------------------|---------------------------------------------------|
+| **Download or Clone the Repository** | `git clone https://github.com/Raza9798/WhatsappMotorize.git` |
+| **Open the Directory**      | `cd WhatsappMotorize`                            |
+| **Install Dependencies**    | `npm install`                                    |
+| **Start the Application**   | `npm run start`                                  |
+
+
+## Application URL TO MESSAGE
+
+| Step          | URL                                           |
+|-----------------------------|---------------------------------------------------|
+| **Setup Contact file and related configration** | `localhost:3000/web.setup` |
+| **Send Message**      | `localhost:3000/web.send?message=Hello Test&apiKey=I4LHwm3KmAIzaSyDxWI4LXZ0DP0D9M5671040&type=sendFromList` |
+
+
+## Contact.json phone number format
+The `contact.json` file should include phone numbers in the following format:
+```json
 [
     94123456789,    // Sri Lanka
     15551234567,    // USA
@@ -33,5 +57,3 @@ localhost:3000/web.send?message=Hello Test&apiKey=I4LHwm3KmAIzaSyDxWI4LXZ0DP0D9M
     351212345678,   // Portugal
     9823456789      // Iran
 ]
-
-```
