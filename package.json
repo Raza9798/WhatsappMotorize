@@ -1,0 +1,47 @@
+{
+  "name": "whatsappmotorize",
+  "version": "1.0.0",
+  "description": "Automation for whatsapp application that helps to send multiple messages at once",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "automate",
+    "rapidkit"
+  ],
+  "author": "Raza9798",
+  "license": "ISC",
+  "dependencies": {
+    "@devoralime/server": "^3.7.7",
+    "@gone-js/backend-fastify": "^1.0.0",
+    "@gone-js/backend-gone": "^1.0.0",
+    "@serajam/generator-nodeapi": "^1.0.0",
+    "@tinyhttp/bot-detector": "^2.0.0",
+    "@xureilab/restgoose": "^1.1.8",
+    "await-fn": "^1.4.5",
+    "bender-webpack-4": "^16.0.6",
+    "bracket-template": "^1.1.5",
+    "csv-stringify": "^6.5.1",
+    "dotenv": "^16.4.5",
+    "escape-string-regexp": "^5.0.0",
+    "estree-util-value-to-estree": "^3.1.2",
+    "express": "^4.19.2",
+    "express-adexe": "^1.2.5",
+    "express-formidable": "^1.2.0",
+    "express-http-proxy": "^2.0.0",
+    "express-jwt": "^8.4.1",
+    "express-list-endpoints": "^7.1.0",
+    "expressmotorize": "^1.0.0",
+    "impress": "^3.0.15",
+    "magcore-plugin-backend-tv-stalker": "^5.6.11-7e85abf",
+    "magcore-plugin-dvb": "^5.6.11-7e85abf",
+    "marketcloud-node": "^2.2.0",
+    "nodemon": "^3.1.4"
+  }
+}
