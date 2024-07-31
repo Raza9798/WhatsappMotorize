@@ -16,7 +16,7 @@
     "rapidkit"
   ],
   "author": "Raza9798",
-  "license": "ISC",
+  "license": "GNU General Public License v3.0",
   "dependencies": {
     "@devoralime/server": "^3.7.7",
     "@gone-js/backend-fastify": "^1.0.0",

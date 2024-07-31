@@ -1,3 +1,13 @@
+# WhatsApp Motorize
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Required Applications](#required-applications)
+- [Configuration](#configuration)
+- [Application URL to send message](#application-url-to-message)
+- [Contact.json Phone Number Format](#contactjson-phone-number-format)
+
 ## Overview
 
 **WhatsApp Motorize** is an innovative tool designed to simplify sending bulk messages via WhatsApp.
@@ -24,7 +34,7 @@
 | **Start the Application**   | `npm run start`                                  |
 
 
-## Application URL TO MESSAGE
+## Application URL to send message
 
 | Step          | URL                                           |
 |-----------------------------|---------------------------------------------------|
