@@ -20,8 +20,8 @@
 
 ## Required Applications
 
-- **Node.js**: Ensure you have Node.js installed to run the application.
-- **Postman**: Use Postman interact with the application.
+- **Node.js**: [Download Application](https://nodejs.org/en/?gad_source=1&gclid=Cj0KCQjwwae1BhC_ARIsAK4JfrxSfRISKQZPRzH2wsIzTZ639RufmSoAG2sP1nEMaQzPzdz9PS_Dt28aAqwSEALw_wcB) Ensure you have Node.js installed to run the application.
+- **Postman**: [Download Application](https://www.postman.com/downloads/) Use Postman interact with the application.
 
 
 ## Configuration
@@ -67,3 +67,16 @@ The `contact.json` file should include phone numbers in the following format:
     351212345678,   // Portugal
     9823456789      // Iran
 ]
+```
+
+## Complete Instruction
+* Download or clone the application `git clone https://github.com/Raza9798/WhatsappMotorize.git`
+* Open the directory `cd WhatsappMotorize`
+* Install Dependencies `npm install`
+* Start the Application `npm run dev`
+* Visit the URL for setup contact file `http://localhost:3000/web.setup`
+* Update or insert more contacts inside the `contact.json` file
+* Visit the URL for send the message `http://localhost:3000/web.send?message=Hello%20Test&apiKey=I4LHwm3KmAIzaSyDxWI4LXZ0DP0D9M5671040&type=sendFromList`
+* Wait until the QR code is generated in commandline or terminal
+* Open your Whatsapp account and scan the QR Code
+* Wait until the process messaging completed.
