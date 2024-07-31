@@ -37,7 +37,7 @@
     "express-http-proxy": "^2.0.0",
     "express-jwt": "^8.4.1",
     "express-list-endpoints": "^7.1.0",
-    "expressmotorize": "^1.0.0",
+    "expressmotorize": "*",
     "impress": "^3.0.15",
     "magcore-plugin-backend-tv-stalker": "^5.6.11-7e85abf",
     "magcore-plugin-dvb": "^5.6.11-7e85abf",
