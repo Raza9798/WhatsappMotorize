@@ -7,6 +7,7 @@
 - [Configuration](#configuration)
 - [Application URL to send message](#application-url-to-send-message)
 - [Contact.json Phone Number Format](#contactjson-phone-number-format)
+- [Complete Instruction](#complete-instruction)
 
 ## Overview
 
