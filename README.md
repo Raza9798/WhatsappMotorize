@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Required Applications](#required-applications)
 - [Configuration](#configuration)
-- [Application URL to send message](#application-url-to-message)
+- [Application URL to send message](#application-url-to-send-message)
 - [Contact.json Phone Number Format](#contactjson-phone-number-format)
 
 ## Overview
