@@ -74,7 +74,7 @@ The `contact.json` file should include phone numbers in the following format:
 * Download or clone the application `git clone https://github.com/Raza9798/WhatsappMotorize.git`
 * Open the directory `cd WhatsappMotorize`
 * Install Dependencies `npm install`
-* Start the Application `npm run dev`
+* Start the Application `npm run start`
 * Visit the URL for setup contact file `http://localhost:3000/web.setup`
 * Update or insert more contacts inside the `contact.json` file
 * Visit the URL for send the message `http://localhost:3000/web.send?message=Hello%20Test&apiKey=I4LHwm3KmAIzaSyDxWI4LXZ0DP0D9M5671040&type=sendFromList`
